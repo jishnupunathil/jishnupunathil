@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jishnupunathil
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Mean stack Development
+- 🌱 I’m currently learning ... MEARN stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
