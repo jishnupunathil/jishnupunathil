@@ -1,72 +1,76 @@
 # Hi, I'm Jishnu 👋
 
-I'm a Software Engineer and Master's student in **Computer Engineering (IoT Systems)** at **Hochschule Nordhausen, Germany**.
+### Software Engineer | M.Eng. Computer Engineering (IoT Systems)
+**Hochschule Nordhausen, Germany 🇩🇪**
 
-I enjoy building scalable web applications, solving real-world problems, and continuously improving my software engineering skills. My primary focus is full-stack web development using modern JavaScript technologies while expanding my knowledge in cloud computing and software architecture.
+Building software that solves real-world problems while continuously learning modern software engineering practices.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineer currently pursuing a Master's in Computer Engineering (IoT Systems) at Hochschule Nordhausen, Germany.
+
+I enjoy designing and developing full-stack applications using modern JavaScript technologies. My interest lies in building scalable, maintainable software while continuously improving my understanding of software architecture, backend systems, cloud technologies, and modern development practices.
+
+Alongside my studies, I'm actively working on personal projects to strengthen my technical skills and prepare for a career in software engineering.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🎓 M.Eng. in Computer Engineering (IoT Systems)
-- 💻 Building Full-Stack Web Applications
-- ☁️ Learning Cloud Technologies & DevOps
-- 🇩🇪 Seeking Werkstudent & Internship opportunities in Germany
+- 🎓 M.Eng. – Computer Engineering (IoT Systems)
+- 💻 Building Full-Stack Applications
+- ☁️ Learning Cloud Computing & DevOps
+- 📚 Strengthening Data Structures & System Design
+- 🇩🇪 Looking for Werkstudent opportunities in Germany
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-**Frontend**
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Redux Toolkit
-- Material UI
+### Frontend
+React • TypeScript • JavaScript • HTML • CSS • Redux Toolkit • Material UI
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
+### Backend
+Node.js • Express.js • REST APIs
 
-**Database**
-- MongoDB
-- SQL (Learning)
+### Database
+MongoDB • SQL
 
-**Tools**
-- Git
-- GitHub
-- Linux
-- VS Code
-- Docker (Learning)
+### Tools
+Git • GitHub • Linux • VS Code • Docker (Learning)
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Featured Projects
 
-### 📚 Book Store
-A MERN Stack application for managing books with authentication, CRUD operations, and responsive UI.
+Here are a few projects that represent my learning journey:
 
-### 📒 Contacts App
-A React + TypeScript application for contact management.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and technical skills.
+- 📚 Book Store (MERN)
+- 📒 Contacts App (React + TypeScript)
+- 🌐 Portfolio Website
+- 📦 More projects coming soon...
 
 ---
 
 ## 🌱 Currently Learning
 
-- Software Engineering
-- Cloud Computing
+- Advanced React
+- TypeScript
 - Docker
 - CI/CD
-- System Design
+- Cloud Computing
+- Software Architecture
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-- Email: *jishnupunathil000@gmail.com*
+📧 Email: jishnupunathil000@gmail.com
+
+💼 LinkedIn:
+[https://linkedin.com/in/your-profile](https://github.com/jishnupunathil/jishnupunathil/edit/main/README.md)
+
+---
+*"Building software. Learning continuously. Growing in Germany."*
