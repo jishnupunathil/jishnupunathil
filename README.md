@@ -70,7 +70,7 @@ Here are a few projects that represent my learning journey:
 📧 Email: jishnupunathil000@gmail.com
 
 💼 LinkedIn:
-[https://linkedin.com/in/your-profile](https://github.com/jishnupunathil/jishnupunathil/edit/main/README.md)
+https://www.linkedin.com/in/jishnu-p-223040224
 
 ---
 *"Building software. Learning continuously. Growing in Germany."*
