@@ -1,4 +1,4 @@
-# Hi, I'm Jishnu 👋
+# Hi, I'm Jishnu Punathil 👋
 
 ### Software Engineer | M.Eng. Computer Engineering (IoT Systems)
 **Hochschule Nordhausen, Germany 🇩🇪**
